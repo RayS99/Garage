@@ -1,5 +1,5 @@
 package garage;
 
-public class Semi {
+public class Semi extends Vehicle{
 
 }
